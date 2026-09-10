@@ -174,20 +174,15 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
-
-
-
-
-<h2>📖 **Overview**</h2>
+<h2>📖 Overview</h2>
 
 This project implements a conversion from a Nondeterministic Finite Automaton (NFA) to a Deterministic Finite Automaton (DFA) using C++.
 
 It combines theoretical concepts from automata theory with practical implementation, demonstrating how nondeterministic systems can be systematically transformed into deterministic ones using classes, sets, and data structures.
 
-
 ---
 
-<h2>🚀 **Purpose**</h2>
+<h2>🚀 Purpose</h2>
 
 The main objectives of this project are to:
 
@@ -204,13 +199,10 @@ Applications include:
 🔍 Lexical analyzers
 🧩 Pattern recognition systems
 
-
-
-
-
 ---
 
-<h2>🧠 **Theory Overview**</h2>
+<h2>🧠 Theory Overview</h2>
+
 🔹 Nondeterministic Finite Automaton (NFA)
 
 An NFA allows:
@@ -229,17 +221,15 @@ There is no ambiguity in transitions
 
 DFAs are easier to simulate and implement.
 
-
 ---
 
-<h2>⚙️ **Algorithm Used**</h2>
+<h2>⚙️ Algorithm Used</h2>
 
 The conversion uses the subset construction algorithm, where:
 
 Each DFA state represents a set of NFA states.
 
 This eliminates nondeterminism by grouping all possible states into a single deterministic state.
-
 
 Step-by-Step Summary (Emoji Style)
 
@@ -249,11 +239,9 @@ Step-by-Step Summary (Emoji Style)
 4️⃣ Final States – Mark DFA states as final if containing any NFA final state
 5️⃣ Result – Fully deterministic DFA ready for simulation or analysis
 
-
 ---
 
-
-<h2>💡 **Key Insight**</h2>
+<h2>💡 Key Insight</h2>
 
 A DFA state is a set of NFA states.
 
@@ -261,14 +249,15 @@ This transformation removes nondeterminism and produces a deterministic automato
 
 ---
 
-<h2>📌 **Notes**</h2>
+<h2>📌 Notes</h2>
+
 Educational project focused on clarity and correctness
 Advanced features like ε-transitions may be simplified
 Emphasis on structured programming and algorithmic thinking
 
 ---
 
-<h2>💡 **Learning Outcomes**</h2>
+<h2>💡 Learning Outcomes</h2>
 
 By completing this project, you will:
 
@@ -278,32 +267,20 @@ Gain experience with sets, maps, and structured logic
 Improve problem-solving and algorithmic thinking
 Prepare a portfolio-ready, recruiter-friendly project
 
-
-
 ---
 
-<h2>💼 **Key Skills**</h2>
+<h2>💼 Key Skills</h2>
 
-- 🐍 **C++ Programming & OOP**  
-- 🧩 **Algorithm Implementation**  
-- 🗂️ **Data Structures:** sets, maps  
-- 🖥️ **Console Application Development**  
-- 🧠 **Problem-Solving & Logical Thinking**  
-- 📊 **Structured Program Design & Debugging**
-
-
+* 🐍 **C++ Programming & OOP**
+* 🧩 **Algorithm Implementation**
+* 🗂️ **Data Structures:** sets, maps
+* 🖥️ **Console Application Development**
+* 🧠 **Problem-Solving & Logical Thinking**
+* 📊 **Structured Program Design & Debugging**
 
 ---
-
-
-
-
-
-
 
 <br><br>
-
-
 
 
 
