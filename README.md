@@ -19,9 +19,12 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Dreamerol/DISCRETE-MATH-CONVERTER/main/MIHAELA%20KOSEVA%20CONVERTER.jpg" alt="MATH" style="width:100%; height:auto;">
-
-
+<a href="https://github.com/Dreamerol/AI-STUDIO">
+  <img src="https://raw.githubusercontent.com/Dreamerol/DISCRETE-MATH-CONVERTER/main/MIHAELA%20KOSEVA%20CONVERTER.jpg"
+       alt="Mihaela Koseva — NFA to DFA Converter, Discrete Mathematics, Automata Theory, C++"
+       title="Mihaela Koseva — NFA to DFA Converter • Discrete Mathematics • Automata Theory • C++"
+       style="width:100%; height:auto;">
+</a>
 
 
 
