@@ -21,7 +21,7 @@
 
 <a href="https://github.com/Dreamerol/AI-STUDIO">
   <img src="https://raw.githubusercontent.com/Dreamerol/DISCRETE-MATH-CONVERTER/main/MIHAELA%20KOSEVA%20CONVERTER.jpg"
-       alt="Mihaela Koseva — NFA to DFA Converter, Discrete Mathematics, Automata Theory, C++"
+       alt="Mihaela Koseva — NFA to DFA Converter, Discrete Mathematics, Automata Theory, C++, Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • AI Engineer • Software Engineer • Backend Engineer • Data Systems & APIs • Applied Machine Learning "
        title="Mihaela Koseva — NFA to DFA Converter • Discrete Mathematics • Automata Theory • C++"
        style="width:100%; height:auto;">
 </a>
