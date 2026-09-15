@@ -18,13 +18,10 @@
 <br>
 
 
----
 
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/8bc1f4f07b4a6f498d056d97281f015b731e6326/ZZZZZCALCULATOR777.png" alt="MATH" style="width:100%; height:auto;">
-
+<img src="https://raw.githubusercontent.com/Dreamerol/DISCRETE-MATH-CONVERTER/38b816782a43195fc613f0f2d25b8cf6993158d6/MIHAELA%20KOSEVA%20CONVERTER.jpg" alt="MATH" style="width:100%; height:auto;">
 
 
----
 
 
 
