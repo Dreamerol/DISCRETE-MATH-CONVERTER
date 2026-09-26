@@ -184,8 +184,10 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+<div align="left">
 
 
+<div align="left">
 
 
 
@@ -300,6 +302,20 @@ Prepare a portfolio-ready, recruiter-friendly project
 * 🖥️ **Console Application Development**
 * 🧠 **Problem-Solving & Logical Thinking**
 * 📊 **Structured Program Design & Debugging**
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+
+
+
 
 ---
 
