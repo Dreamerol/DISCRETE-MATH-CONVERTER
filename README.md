@@ -18,6 +18,11 @@
 
 
 
+<br>
+
+
+
+
 
 <a href="https://github.com/Dreamerol/AI-STUDIO">
   <img src="https://raw.githubusercontent.com/Dreamerol/DISCRETE-MATH-CONVERTER/main/MIHAELA%20KOSEVA%20CONVERTER.jpg"
@@ -31,12 +36,10 @@
 
 
 
-
+<br>
 
 <br>
 
-
-<br>
 
 
 
